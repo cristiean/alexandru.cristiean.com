@@ -7,8 +7,9 @@
 
 body {
     background-color: rgb(30, 30, 30);
-    color: var(--normal);
     font-family: "Lucida Console", Monaco, monospace;
+    font-size: 130%;
+    color: var(--normal);
     max-width: 80ch;
 }
 
@@ -28,8 +29,8 @@ img {
 
 svg {
     fill: var(--normal);
-    width: 25px;
-    height: 25px
+    width: .75em;
+    height: .75em;
 }
 
 svg:hover {
