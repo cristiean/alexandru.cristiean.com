@@ -1,0 +1,57 @@
+:root{
+    --highlight: rgb(255, 255, 255);
+    --normal: rgb(200, 200, 200);
+    --pressed: rgb(152, 152, 157);
+    --extra: rgb(255, 214, 10);
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+    color: var(--normal);
+    font-family: "Lucida Console", Monaco, monospace;
+    max-width: 80ch;
+}
+
+figure {
+    margin: 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.logo {
+    text-decoration: none;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+}
+
+svg {
+    fill: var(--normal);
+    width: 25px;
+    height: 25px
+}
+
+svg:hover {
+    fill: var(--highlight);
+}
+
+svg:active {
+    fill: var(--pressed);
+}
+
+a:link {
+    color: var(--extra);
+}
+
+a:visited {
+    color: var(--normal);
+}
+
+a:hover {
+    color: var(--highlight);
+}
+
+a:active {
+    color: var(--pressed);
+}
