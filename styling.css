@@ -18,11 +18,13 @@ figure {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
 }
 
 iframe {
-    border:1px solid var(--extra);
+    border:1px solid var(--pressed);
+    width: 100%;
+    height: 300px;
 }
 
 .logo {
