@@ -21,6 +21,10 @@ img {
     max-width: 100%;
 }
 
+iframe {
+    border:1px solid var(--extra);
+}
+
 .logo {
     text-decoration: none;
     margin-left: 2.5px;
