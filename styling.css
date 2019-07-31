@@ -23,8 +23,27 @@ img {
 
 iframe {
     border:1px solid var(--pressed);
+}
+
+.video-container {
+	position:relative;
+    padding-bottom:56.25%;
+}
+
+.video-container iframe {
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+
+.map-container {
     width: 100%;
     height: 300px;
+}
+
+.map-container iframe{
+   width: 100%;
+   height: 100%;
 }
 
 .logo {
