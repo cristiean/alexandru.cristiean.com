@@ -1,1 +1,1 @@
-- [Making embeded YouTube videos scale](https://coolestguidesontheplanet.com/videodrome/youtube/) 
+- [Making embeded YouTube videos scale](https://coolestguidesontheplanet.com/videodrome/youtube/)

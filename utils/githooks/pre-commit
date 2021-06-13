@@ -1,0 +1,9 @@
+#!/bin/bash
+
+MODIFIED_HTML_FILES=$(git diff --name-only --cached | grep html)
+
+python3 .git/hooks/pre-commit.py <<LIMITSTRING
+$MODIFIED_HTML_FILES
+LIMITSTRING
+
+git add $MODIFIED_HTML_FILES
