@@ -5,7 +5,7 @@
     --extra: rgb(255, 200, 0);
 
     --dark: rgb(30, 30, 30);
-    --less-dark: rgb(60, 60, 60);
+    --less-dark: rgb(40, 40, 40);
 }
 
 html {
@@ -15,15 +15,10 @@ html {
 body {
     background-color: var(--dark);
     font-family: "Lucida Console", Monaco, monospace;
+    font-size: 130%;
     color: var(--normal);
     max-width: 80ch;
     margin: 0 auto;
-}
-
-.updated {
-    text-align: center;
-    font-size: 50%;
-    color: var(--less-dark);
 }
 
 figure {
