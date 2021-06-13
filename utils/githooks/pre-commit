@@ -2,7 +2,7 @@
 
 MODIFIED_HTML_FILES=$(git diff --name-only --cached | grep html)
 
-python3 pre-commit.py <<LIMITSTRING
+python3 utils/githooks/pre-commit.py <<LIMITSTRING
 $MODIFIED_HTML_FILES
 LIMITSTRING
 
