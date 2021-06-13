@@ -13,6 +13,7 @@ html {
 
 body {
     background-color: var(--dark);
+    font-size: large;
     font-family: "Lucida Console", Monaco, monospace;
     color: var(--normal);
     max-width: 80ch;
@@ -21,7 +22,7 @@ body {
 
 .updated {
     text-align: right;
-    font-size: 75%;
+    font-size: small;
     color: var(--less-dark);
 }
 
