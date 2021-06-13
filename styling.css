@@ -21,7 +21,7 @@ body {
 }
 
 .updated {
-    text-align: center;
+    text-align: right;
     font-size: 75%;
     color: var(--less-dark);
 }
