@@ -7,6 +7,14 @@
     --less-dark: rgb(60, 60, 60);
 }
 
+
+/*TODO: Responsive for mobile
+   @media (min-width: 500px) {
+    html {
+        font-size: x-small;
+    }
+} */
+
 html {
     overflow-y: scroll;
 }
