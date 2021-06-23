@@ -1,0 +1,119 @@
+# Norzeatic (a.k.a. Vexxatu Vexx) - O mână
+Citez, ghilimele:
+În ziua de azi toate alea-i greu, (OK)
+Cum spunea femeia de servici din blocu' meu.
+Nu pot decât să fiu de-acord cu ea, mai ales că știu
+Că-și muncește curu' din zori până târziu.
+Dacă spuneți că nu-i nimic mă văd silit să vă ră-
+Spund că asta face de când era tânără.
+Ca să-și țină bărbatul pensionar, copiii școlari,
+Care acum sunt mari dar nici nu mai vin pe la ea măcar.  
+Coșmarul va fi trecut doar în momentul când
+Va avea satisfacția vieții: bucata de pământ
+De 2 metri pătrați, la alți 2 metri adâncime
+Dă' care, după viață, nu poa' să scape nimeni.
+Vă-ntreb, e oare bine să duci o existență
+Aparent lipsită de esență,
+    dar fără penitență?
+Când o să tragi linia, 
+    concluzia,
+Poate răsplata nu va-ntârzia.
+Dumnezeu, Universu' și Eul superior
+Te vor primi în lumea drepților
+Cu un buchet de flori și cu felicitări.
+Iar dacă nu crezi în d-astea, măcar o să
+Ai menajamente de la metempsihoză.
+
+Ridicați o mână pentru femeia de servici!
+Acum lăsați-o jos,
+Că oricum nu e de folos.
+
+Dar dacă nici vieți viitoare nu există,
+Te poți lansa pe-o falsă pistă,
+    Situația este tristă.
+Nu era oare mai bine dacă, 
+N-aveai deloc principii și te durea la ștoacă? 
+Făceai absolut orice cu un singur țel:
+Lovelele (grup?), și târfele pă' moro pel. <!-- # romani "moro" = "al meu" -->
+Te-am adus unde-am vrut pentru că am de zis
+Câteva noțiuni relative la compromis.
+Totul e admis, tu zici, dar te-n treb: te
+Poți băga și-n hip-hop cu astfel de concepte?
+Pentru că și-o ștoarfă care-i bună-n meseria ei
+Tre' să-i placă și pula, nu doar zdrăngăneii.
+Că decat să să frece, căscând de plictiseală,
+Mai bine săpa grădina sau se ducea la școală.
+Așa ți tu, mâncați-aș, cântărețule: dacă n-ai plă-
+Cere din ceea ce faci, mai bine dădeai la șaibă.
+Că dacă te ți compromiți ți nici nu-ți place deloc,
+Ești ca o curvă beată care zace-ntr-o scară dă bloc
+După ce o noapte-ntreagă s-a bălăcărit cumplit,
+S-a și îmbolnăvit și nici nu i-a ieșit profit.
+
+Ridicați o mână— măcar un deget pentru ea! 
+Acum lăsați-o-n jos, că oricum nu e de folos.
+
+Acum vre-un an de zile, stătea cu mine în bloc
+Un băiat de bani gata, lovit de mult noroc.
+Atunci când îl vedeai el nu era ca toți ceilalți,
+Că bea numai Santal și aprindea Marlboro Lights.
+Vara la mare, iarna la schi, iar în rest
+La Greci, Italieni și prin Europa de Vest.
+Dar mai presus decât toate el se credea deștept
+Că le-are pe toate astea fără să tragă pe nimeni în piept.
+Într-o zi însă părinții lui au cazut pradă
+Unui accident barbar, p-autostradă,
+Iar banii lor s-au dus pulii de suflet în sloboz
+Că s-a descoperit că erau obținuți fraudolos.
+Și cine credeți că a căzut pradă teribilei sorți—
+De fapt teribilei străzi, care-i înghite pe toți
+Inocenții fără vaccin
+Cu anticorpi antidestin.
+
+Hai vreau să văd că ridicați o mână pentru baiatu' de bani gata! 
+Acum lasati-o-n jos, că oricum nu e de folos
+
+Al patrulea subiect pă care acu' o să-l tratez
+Sunt eu Vexxatu' Vexx, un tip uman mult prea complex.
+Caterincos pe vers chiar dacă problemele-s grave.
+Iar daca n-ați fost atenți atunci vă zic că n-aveți
+Nici cea mai vagă idee de cât de mult mă frământ
+În viata de pe pământ și mai ales de sub pământ.
+In sensul de apoi, dar și-n sens de under-
+Ground. Deles liric, eu vă livrez pa bandă. Ando <!-- # (rom "del" = romana "a da"; "ando"="în") -->
+În primu' rând citiți și printre rânduri,
+Folosiți-vă gându'
+    Că uneori vă vând u-
+Nele pă' altă cale. 
+    De fapt, în general le
+Dau două vorbe concrete,
+    Trei subliminale.
+Grijile materiale le iau pe pulă dese ori.
+Dau pace la bagabonți, săraci și la copii dîn flori.
+Pentru voi toți, aceea care i-ați
+Manevrat pe fraieri, în special bogați.
+Pace tuturor curvelor care satis-
+Fac și pe unii pe bani, da' și pe altii gratis.
+Pace pentru frații mei care sunt pe felie.
+Ei sunt cei care vor moșteni împărăția.
+O vorba din bătrâni ajunsă la mine p'în viu grai:
+Ori cu pula-n în pizdă, ori cu sufletu-n rai.
+Ai de-nvațat că la furat, în căcat,
+Intrat în pacat sau curat,
+Tre' să fii cu sufletu-mpăcat.
+Dar în hip-hop nu merge să bagi kar del <!-- romani "kar del" = "a da pulă"[a cordi; coardă -	a face sex; curvă - kur, kurdo; khurdel; kar del = a da pulă](https://blogulblog.wordpress.com/z-postari-pe-alte-teme-lingvistice/etimologia-unor-cuvinte-tiganesti-din-romana/) -->
+Să te curvăsărești sau compromiți în niciun fel.
+Și nici sa ciorel–es măcar un vers al <!-- a ciordi - a fura - cior, ciordiom - H.: cor; S.: cōrá; Pk.: cōra (a face ceva în secret)  -->
+Acestei felii sublime de spirit universal.
+
+Ridicați o mână pentru Vexxatu' Vexx,
+Mc-ul tehnic, creator de lexic.
+
+Mai ridicați acum o mână pentru Sleek.
+
+Și încă una sus, pentru formația
+    Dîn grația
+Căreia puteți să savurați creația.
+Și dacă ați înțeles și vă
+    Simțiți în stare să
+O faceți, ridicați una pentru voi înșivă.
