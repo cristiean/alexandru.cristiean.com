@@ -34,6 +34,15 @@ body {
     color: var(--less-dark);
 }
 
+.blog-title {
+    margin-bottom: -1%;
+}
+
+.blog-title-date {
+    font-size: x-small;
+    color: var(--less-dark);
+}
+
 figure {
     margin: 0px;
 }
@@ -44,7 +53,12 @@ img {
 }
 
 div {
-    overflow: visible; 
+    overflow: visible;
+}
+
+div.lyrics {
+    height: 300px;
+    overflow: auto;
 }
 
 iframe {
