@@ -34,11 +34,11 @@ body {
     color: var(--less-dark);
 }
 
-.blog-title {
+.thought-title {
     margin-bottom: -1%;
 }
 
-.blog-title-date {
+.thought-title-date {
     font-size: x-small;
     color: var(--less-dark);
 }
