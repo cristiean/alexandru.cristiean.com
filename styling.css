@@ -87,6 +87,25 @@ iframe {
     height: 100%;
 }
 
+.archive-container {
+    background-color: var(--less-dark); /* Slightly lighter background color */
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    padding: 1%;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+.archive-container-title {
+    margin-top: 0px;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+.archive-container-description {
+    text-align: center;
+}
+
 .logos {
     margin: 0 auto;
 }
