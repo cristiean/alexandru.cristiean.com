@@ -4,7 +4,7 @@
     --pressed: rgb(150, 150, 150);
     --extra: rgb(255, 200, 0);
     --dark: rgb(30, 30, 30);
-    --less-dark: rgb(60, 60, 60);
+    --less-dark: rgb(100, 100, 100);
 }
 
 
@@ -30,7 +30,7 @@ body {
 
 .updated {
     text-align: right;
-    font-size: small;
+    font-size: x-small;
     color: var(--less-dark);
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 .thought-title-date {
-    font-size: x-small;
+    font-size: small;
     color: var(--less-dark);
 }
 

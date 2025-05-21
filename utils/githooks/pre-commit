@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MODIFIED_HTML_FILES=$(git diff --name-only --cached | grep html)
+MODIFIED_HTML_FILES=$(git diff --name-only --cached --diff-filter=ACM | grep html)
 
 python3 utils/githooks/pre-commit.py <<LIMITSTRING
 $MODIFIED_HTML_FILES
