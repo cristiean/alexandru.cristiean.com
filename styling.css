@@ -7,14 +7,6 @@
     --less-dark: rgb(100, 100, 100);
 }
 
-
-/*TODO: Responsive for mobile
-   @media (min-width: 500px) {
-    html {
-        font-size: x-small;
-    }
-} */
-
 html {
     overflow-y: scroll;
 }
@@ -38,7 +30,13 @@ body {
     margin-bottom: -1%;
 }
 
-.thought-title-date {
+.thought-description {
+    font-size: small;
+    color: var(--pressed);
+    margin-bottom: -1%;
+}
+
+.thought-date {
     font-size: small;
     color: var(--less-dark);
 }
@@ -88,9 +86,7 @@ iframe {
 }
 
 .archive-container {
-    background-color: var(--less-dark); /* Slightly lighter background color */
-    /* padding-left: 10px; */
-    /* padding-right: 10px; */
+    background-color: var(--less-dark);
     padding: 1%;
     margin-bottom: 40px;
     border-radius: 5px;
