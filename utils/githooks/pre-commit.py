@@ -21,10 +21,10 @@ try:
                 print(f"Datetimestamping with datetime {datetime_string}: {html_filename}")
                 html_file.write(re.sub(r"<datetimestamp>.*</datetimestamp>", f"<datetimestamp>{datetime_string}</datetimestamp>", html))
         
-        except Exception as FileNotFoundError:
+        except FileNotFoundError:
             print(f"Datetimestamping: {html_filename} does not exist anymore (may be deleted?)")
 
 except Exception as e:
     print("Datetimestamping ERROR! Failed due to: ", e)
     print(35*'-',' ABORT ', 35*'-')
-    exit
+    exit(1)
